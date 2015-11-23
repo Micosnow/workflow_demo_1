@@ -21,6 +21,7 @@
         ]
       }
     ],
-    "dest": "fenxu_demo_1"
+    "dest": "fenxu_demo_1",
+    "template": "op.html"
   }
 }
